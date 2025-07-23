@@ -274,7 +274,7 @@ public class 변수선언_36p {
 		boolean b=true;
 		System.out.println(b);
 		
-		//변경 b= flse
+		//변경 b= false
 		b=false;
 		System.out.println(b);
 		

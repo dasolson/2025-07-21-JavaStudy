@@ -91,7 +91,7 @@ public class 데이터형변환 {
         for(int i=0;i<title.size();i++)
         {
         	String s=title.get(i).text();
-        	String s1=title.get(i).text();
+        	String s1=singer.get(i).text();
         	if(s1.contains(ss))
         	 System.out.println(s+"("+s1+")");
         }
