@@ -289,11 +289,12 @@ public class 자동형변환 {
 //        System.out.println("문자열 입력:");
 //        String msg=scan.nextLine(); //공백 포함
 //        System.out.println(msg);
+        Scanner scan=new Scanner(System.in);
         System.out.print("true/false입력:");
-        boolean b=scan.nextBoolean();
+        boolean b4=scan.nextBoolean();
         System.out.println(b);
         System.out.print("실수 입력:");
-        double d=scan.nextDouble();
+        double d1=scan.nextDouble();
         System.out.println(d);
         
 	}

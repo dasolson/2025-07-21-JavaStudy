@@ -51,7 +51,7 @@ public class 부정연산자 {
 		if(bCheck==true);
 		System.out.println("사용자");
 		else;
-			System.out.println("컴퓨터");
+		System.out.println("컴퓨터");
 		i++;
 		}	
 		
