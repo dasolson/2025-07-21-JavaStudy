@@ -43,19 +43,20 @@ public class 부정연산자 {
 		// TODO Auto-generated method stub
 		boolean bCheck=false;
 		int i=1;
-		while(true);
+		while(true)
 	   {	
 		 if(i>=10)
-			break
+			break;
 		bCheck=!bCheck;
 		if(bCheck==true)
 		System.out.println("사용자");
-		else;
+		else
 		System.out.println("컴퓨터");
 		i++;
-		}	
+		
 		
 
-	}
-
-}
+	    }
+  
+	  }
+    }
