@@ -15,9 +15,11 @@
  */
 public class 제어문_4 {
 
-	public static void main(String[] args) {
-	throws Exception	
-		// TODO Auto-generated method stub
+	public static void main(String[] args)
+	throws Exception
+	{
+	
+	    // TODO Auto-generated method stub
      	int a=(int)(Math.random()*5)+1;
 	
 	    if(a==1) {
