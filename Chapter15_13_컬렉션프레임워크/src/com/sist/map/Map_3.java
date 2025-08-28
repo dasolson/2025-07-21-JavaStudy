@@ -64,11 +64,7 @@ public class Map_3 {
         B b=(B)c.getBean("b");
         b.execute();
         
-        C c=(C)c.getBean("c");
-        c.execute();
-        
-        D d=(D)c.getBean("d");
-        d.execute();
+       
 	}
 
 }
