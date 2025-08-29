@@ -14,6 +14,7 @@ public class Function {
     public static final int WAITUPDATE=240;
     public static final int WAITCHAT=300;
     public static final int ROOMCHAT=310;
+    public static final int INFO=500;
     public static final int CHATEND=900;
     public static final int MYEND=910;
 }
